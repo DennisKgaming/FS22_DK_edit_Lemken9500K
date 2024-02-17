@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="60">
+    <author>DennisK</author>
+	
+    <version>1.0.0.0</version>
+	
+    <title>
+        <en>Lemken Smaragd 9 500K DK edit</en>
+    </title>
+	
+    <description>
+        <en>Lemken Smaragd 9 500K with increased speed, Color options and additional lights.</en>
+    </description>
+	
+    <iconFilename>icons/icon_smaragd9_500k.png</iconFilename>
+	
+    <storeItems>
+        <storeItem xmlFilename="xml/smaragd9_500k.xml"/>
+    </storeItems>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+        <sourceFile filename="scripts/categorizer.lua"/>
+    </extraSourceFiles>
+	
+	<newcategory name="DennisKtools" title="DennisK" type="TOOL" img="Categories/CategoryTools.png" />
+	
+</modDesc>
